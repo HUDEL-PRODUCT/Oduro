@@ -20,10 +20,15 @@ A stranger can enquire from the site and receive a tailored path to a booked con
 
 - [ ] Outcome-led homepage for a **broad** buyer (niche not locked): connected-business positioning; original copy (direction from business notes; do not paste Agentryx verbatim)
 - [ ] Colour sensibility inspired by [Agentryx](https://www.agentryx.io) as a **design reference only** (parallel brand — not a successor story on the site)
-- [ ] Approach section: Audit → Design → Build → Test → Launch → Improve
-- [ ] Light proof: real testimonials ready to use
+- [ ] Primary nav: Solutions / Our Approach / Guides / About / Enquire
+- [ ] About page: offerings overview, what we build, how we work, standards
+- [ ] Our Approach: Audit → Design → Build → Test → Launch → Improve
+- [ ] Homepage testimonials carousel (real quotes) at the bottom
+- [ ] Solution pages embed proof relevant to that solution (no separate Proof nav)
+- [ ] Guides index with cards + 10 published guides; each guide tagged to one pillar (Growth, Automation, AI, Software)
+- [ ] Google Stitch for UI designs / design system before Next.js implementation
 - [ ] Pillars overview page with interactive solution cards
-- [ ] Solution detail pages for each offering: problem → includes → works well with → outcomes → long Enquire CTA
+- [ ] Solution detail pages for each offering: problem → includes → works well with → outcomes → proof → long Enquire CTA
 - [ ] Catalogue pillars/solutions:
   - Growth systems — Websites; Funnels & landing pages
   - Automation — Workflow automation; Follow-up & nurture; Dashboards & reporting
@@ -42,7 +47,7 @@ A stranger can enquire from the site and receive a tailored path to a booked con
 
 - Site chat / Notion-grounded knowledge assistant on the Oduro site — later dogfood, not this v1
 - Voice (Vapi) and Stripe dogfood on the agency site — after enquiry loop works
-- Full blog / industries hub / case-study system at Agentryx breadth — proof stays light in v1
+- Industries hub / full case-study CMS — v1 has solution-page proof + homepage carousel + 10 pillar-tagged guides only
 - Locking first niche, social handles, or final homepage line wording — open intentionally
 - Locking booking provider (Cal.com candidate only) — behaviour locked, vendor open
 - Building client projects inside this repo — separate repos; client-owned accounts
@@ -72,11 +77,13 @@ Source notes live in `oduro/BUSINESS.md` and `oduro/STACK.md` (updated during qu
 - **Sender / booker**: named From and calendar owner TBD
 - **Buyer**: broad for v1; niche later
 - **Separate from Scourge**: own repo and Oduro-owned vendor accounts
+- **UI design**: Google Stitch (via Cursor Stitch MCP) for screen generation and design system before / alongside GSD UI phases — Agentryx colour feel as reference input to Stitch, not a Figma-only handoff
 
 ## Key Decisions
 
 | Decision | Rationale | Outcome |
 |----------|-----------|---------|
+| UI designs in Google Stitch | Visual exploration + design system via Stitch MCP before implementing Next.js UI | — Pending |
 | Agency site only (dogfood) | Prove the system on Oduro before client breadth | — Pending |
 | Outcome = connected business; enquiry loop = first system | Brand is interconnection; dogfood proves acquisition connectivity | — Pending |
 | Broad buyer for v1 | Niche open; homepage leads with outcome | — Pending |

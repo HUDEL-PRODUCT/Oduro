@@ -38,13 +38,20 @@ Tone to aim for (write original copy; do not paste this verbatim):
 
 Offerings to display. Site IA:
 
+**Primary nav:** Solutions · Our Approach · Guides · About · Enquire
+
+**About page:** Deeper company/offerings page — what we offer, what we build, how we work, and our standards (complements Our Approach; not a duplicate of the six-step process alone).
+
 1. A **pillars page** that outlines the four pillars and the solutions inside each.
 2. Each solution is an **interactive card**. Click opens a **solution page**:
    - The problem
    - What the solution includes
    - What other solutions it works well with
    - Outcomes if implemented
+   - Embedded proof relevant to that solution
    - A long Enquire CTA card at the bottom
+3. **Homepage** ends with a testimonials carousel (real quotes).
+4. **Guides** index with cards; v1 ships **10** full guides. Each guide is tagged to exactly one pillar: Growth, Automation, AI, or Software (internal tools / custom software).
 
 ### Growth systems
 
