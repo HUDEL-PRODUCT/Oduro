@@ -94,54 +94,53 @@ Deferred until the enquire→book loop and v1 blog are validated.
 
 ## Traceability
 
-Filled during roadmap creation.
-
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| SITE-01 | — | Pending |
-| SITE-02 | — | Pending |
-| SITE-03 | — | Pending |
-| SITE-04 | — | Pending |
-| SITE-05 | — | Pending |
-| SITE-06 | — | Pending |
-| SITE-07 | — | Pending |
-| SITE-08 | — | Pending |
-| CAT-01 | — | Pending |
-| CAT-02 | — | Pending |
-| CAT-03 | — | Pending |
-| CAT-04 | — | Pending |
-| CAT-05 | — | Pending |
-| CAT-06 | — | Pending |
-| CAT-07 | — | Pending |
-| GUIDE-01 | — | Pending |
-| GUIDE-02 | — | Pending |
-| GUIDE-03 | — | Pending |
-| GUIDE-04 | — | Pending |
-| GUIDE-05 | — | Pending |
-| ENQ-01 | — | Pending |
-| ENQ-02 | — | Pending |
-| ENQ-03 | — | Pending |
-| ENQ-04 | — | Pending |
-| ENQ-05 | — | Pending |
-| ENQ-06 | — | Pending |
-| ENQ-07 | — | Pending |
-| LOOP-01 | — | Pending |
-| LOOP-02 | — | Pending |
-| LOOP-03 | — | Pending |
-| LOOP-04 | — | Pending |
-| LOOP-05 | — | Pending |
-| LOOP-06 | — | Pending |
-| LOOP-07 | — | Pending |
-| LEG-01 | — | Pending |
-| LEG-02 | — | Pending |
-| LEG-03 | — | Pending |
-| AN-01 | — | Pending |
+| SITE-01 | Phase 5 | Pending |
+| SITE-02 | Phase 5 | Pending |
+| SITE-03 | Phase 3 | Pending |
+| SITE-04 | Phase 3 | Pending |
+| SITE-05 | Phase 4 | Pending |
+| SITE-06 | Phase 2 | Pending |
+| SITE-07 | Phase 5 | Pending |
+| SITE-08 | Phase 5 | Pending |
+| CAT-01 | Phase 6 | Pending |
+| CAT-02 | Phase 6 | Pending |
+| CAT-03 | Phase 6 | Pending |
+| CAT-04 | Phase 6 | Pending |
+| CAT-05 | Phase 6 | Pending |
+| CAT-06 | Phase 6 | Pending |
+| CAT-07 | Phase 6 | Pending |
+| GUIDE-01 | Phase 7 | Pending |
+| GUIDE-02 | Phase 7 | Pending |
+| GUIDE-03 | Phase 7 | Pending |
+| GUIDE-04 | Phase 7 | Pending |
+| GUIDE-05 | Phase 7 | Pending |
+| ENQ-01 | Phase 8 | Pending |
+| ENQ-02 | Phase 8 | Pending |
+| ENQ-03 | Phase 8 | Pending |
+| ENQ-04 | Phase 8 | Pending |
+| ENQ-05 | Phase 8 | Pending |
+| ENQ-06 | Phase 8 | Pending |
+| ENQ-07 | Phase 8 | Pending |
+| LOOP-01 | Phase 9 | Pending |
+| LOOP-02 | Phase 9 | Pending |
+| LOOP-03 | Phase 9 | Pending |
+| LOOP-04 | Phase 9 | Pending |
+| LOOP-05 | Phase 10 | Pending |
+| LOOP-06 | Phase 10 | Pending |
+| LOOP-07 | Phase 10 | Pending |
+| LEG-01 | Phase 4 | Pending |
+| LEG-02 | Phase 4 | Pending |
+| LEG-03 | Phase 4 | Pending |
+| AN-01 | Phase 11 | Pending |
 
 **Coverage:**
 - v1 requirements: 38 total
-- Mapped to phases: 0
-- Unmapped: 38 (pending roadmap)
+- Mapped to phases: 38
+- Unmapped: 0
+- Phase 1 (Account Bootstrap & Deliverability): foundation only — no REQ IDs
 
 ---
 *Requirements defined: 2026-10-03*
-*Last updated: 2026-10-03 after About page added*
+*Last updated: 2026-10-03 — roadmap traceability mapped*
